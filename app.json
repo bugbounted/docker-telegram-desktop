@@ -1,0 +1,7 @@
+{
+  "name": "docker-telegram-desktop",
+  "description": "Deploy dockerfile code can run telegram in docker with vnc support on Heroku.",
+  "website": "https://takl.ink/bugbounted",
+  "repository": "https://github.com/bugbounted/docker-telegram-desktop",
+  "stack": "container"
+}
